@@ -12,4 +12,6 @@ function findMinAndRemove(array){
 }
 
 function selectionSort(array){
+  let newMin
+  
 }
